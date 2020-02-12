@@ -22,3 +22,5 @@ This should happen in 4-5 sec max.
 To see the above mechanic works in a good looking way; both for users & dev team.
 
 GOOD LUCK! :)
+
+ps: please don't push any commit to this repo/branch. clone this branch to your local and create a brand new branch on your git; and share with gulliversgames account.
