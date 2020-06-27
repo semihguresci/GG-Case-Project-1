@@ -12,12 +12,12 @@ You'll find the sprites in the project as well.
 
 //WHAT WE NEED//
 
-When player clicks unlock button, mechanic (green frame) should work like a "Wheel of Fortune" that randomly moves on different skins.
+When player clicks unlock button, mechanic (green frame) should randomly moves on different skins.
 Here is the video of how that movement look like: https://youtu.be/ePEnJXnV6rY?t=247
 
 When green frame stops on a specific skin, that will be unlocked and player will see what that is.
 
-Players can unlock skins one by one (in the same runtime) without any problem until there will be no locked skin.
+Players can unlock skins one by one (in the same play mode) without any problem until there will be no locked skin.
 
 Please clone this repo to your own github account and then share your repo with "gulliversgames" account.
 
